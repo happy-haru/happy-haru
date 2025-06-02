@@ -34,13 +34,6 @@ LangGraph를 활용해 **질병과 단백질, 유전자, 분자 간의 연결 �
 | **ETC**            | Git, Excel |
 
 ---
-
-### 📫 Contact Me
-
-- 📧 Email: **ryusg716@naver.com**
-
----
-
 ### 💬 Motto
 
 > “데이터 안에 답이 있다면, 저는 그걸 꺼내오는 사람입니다.”
