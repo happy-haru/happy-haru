@@ -27,7 +27,7 @@ LangGraph를 활용해 **질병과 단백질, 유전자, 분자 간의 연결 �
 | 분야               | 기술 |
 |--------------------|------|
 | **Biomedical**      | heart Signal Processing, BioBERT, BioNER |
-| **Text Mining / NLP** | KoNLPy, HuggingFace, LangChain, LangGraph |
+| **Text Mining / NLP** | HuggingFace, LangChain, LangGraph |
 | **Data Analysis**  | Python, Pandas, Numpy, Scikit-learn |
 | **Visualization**  | Matplotlib, Seaborn, Plotly |
 | **ETL / Crawling** | BeautifulSoup, Selenium |
