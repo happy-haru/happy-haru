@@ -1,4 +1,4 @@
-<h1 align="center">💡 생명과 데이터를 잇는 연구개발자, 환영합니다!</h1>
+<h1 align="center">💡 생명과 데이터를 잇는 연구개발자입니다.</h1>
 <p align="center">Python · Biomedical Signal Processing · NLP · LangChain · BioBERT</p>
 
 ---
